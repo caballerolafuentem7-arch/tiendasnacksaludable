@@ -1,0 +1,11 @@
+PROYECTO: NutriSnacks - Tienda Online
+===================================
+
+Archivos incluidos en esta carpeta:
+1. index.html -> Estructura principal de la tienda y modal de pago QR.
+2. styles.css -> Estilos personalizados (barra de desplazamiento).
+3. script.js  -> Lógica del carrito, catálogo de productos y envío directo a WhatsApp.
+
+Instrucciones de uso:
+- Coloca tu imagen del código QR en esta misma carpeta con el nombre exacto: qr.jpeg
+- Abre el archivo index.html en cualquier navegador web.
